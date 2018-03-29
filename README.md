@@ -1,0 +1,2 @@
+## 公共组件
+该common模块用于official_accounts和wx_relay_servers通信的公共组件, 包括了hprose客户端定义、错误码、类型定义和常用方法
